@@ -1,0 +1,16 @@
+
+#div1 {
+    font-size: 15px;
+    width: 100%;
+    height: 100px;
+}
+
+#input_box {
+    width: 20%;
+}
+
+canvas {
+    box-shadow: 7px 7px 7px white;
+    border: 5px solid white;
+    border-radius: 100%;
+}
